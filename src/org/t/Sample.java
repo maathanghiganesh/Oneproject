@@ -4,6 +4,9 @@ import java.util.Arrays;
 
 public class Sample {
 	public static void main(String[] args) {
+		String s="maathanghi";
+		String ss="maathu 2";
+		System.out.println(s);
 		String s1="silent";
 		String s2="listen";
 		
