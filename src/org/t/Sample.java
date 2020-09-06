@@ -4,6 +4,8 @@ import java.util.Arrays;
 
 public class Sample {
 	public static void main(String[] args) {
+		int i=10;
+		 i=20;
 		String s="maathanghi";
 		String ss="maathu 2";
 		System.out.println(s);
